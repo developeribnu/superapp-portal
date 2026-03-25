@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 import {
   Code2,
   Briefcase,
@@ -707,7 +707,7 @@ export default function Home() {
                 <span className="font-semibold text-white">
                   Built by Ibnu
                 </span>{" "}
-                | Powered by Next.js 15 & React 19 | © 2026 All rights reserved
+                | Powered by Next.js 15 & React 19 | Â© 2026 All rights reserved
               </p>
             </div>
           </div>
